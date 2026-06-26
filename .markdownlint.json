@@ -1,0 +1,9 @@
+{
+  "MD033": {
+    "allowed_elements": ["h1", "strong", "mark", "span", "sup", "p", "br"]
+  },
+
+  "MD013": {
+    "line_length": 1000
+  }
+}
