@@ -1,14 +1,14 @@
 /*
-* Belwo code is for just demonstration 
+* Below code is for just demonstration 
 * of how data is stored and how memory 
-* is allocated based on variabels data type
+* is allocated based on variable data types
 *
-*  KEEP IN MIND THAT THIS IS FOR JUST SHOWIND DATA TYPES 
+*  KEEP IN MIND THAT THIS IS FOR JUST SHOWING DATA TYPES 
 *  SYNTAX OF C LANGUAGE AND HOW IT WORKS WILL BE DEFINED IN LATER SECTIONS
 */
 
 #include <stdio.h>
-#include <limits.h> // This library just imports constatns for MIN-MAX values for data types like, INT_MAX, CHAR_MAX etc...
+#include <limits.h> // This library just imports constants for MIN-MAX values for data types like, INT_MAX, CHAR_MAX etc...
 #include <float.h> // This is also needed to get MIN-MAX values for floating point types they are noy included in limits.h
 int main()
 {
