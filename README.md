@@ -31,13 +31,12 @@ underneath its surface.
 
 ## Topics
 
-| #   | Topic                    | Notes                                   | Code                                           |
-| --- | ------------------------ | --------------------------------------- | ---------------------------------------------- |
-| 01  | Bits, Bytes & Data Types | [README](./01-bits-and-bytes/README.md) | [reference.c](./01-bits-and-bytes/reference.c) |
+| #   | Topic                    | Notes                                              | Code                                                      |
+| --- | ------------------------ | -------------------------------------------------- | --------------------------------------------------------- |
+| 01  | Bits, Bytes & Data Types | [README](./01-bits-and-bytes/README.md)            | [reference.c](./01-bits-and-bytes/reference.c)            |
+| 02  | Compilation              | [README](./02-compilation-and-compilers/README.md) | [reference.c](./02-compilation-and-compilers/reference.c) |
 
-> More topics added as I progress.
-
----
+> More topics added as I progress.---
 
 ## Resources
 
