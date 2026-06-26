@@ -1,0 +1,8 @@
+# Compiled output
+*.o
+*.out
+a.out
+
+# OS files
+.DS_Store
+Thumbs.db
